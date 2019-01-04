@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  receiver: MyString
+  user_id: 
+  order_place: MyString
+  order_phone: MyString
+  status: 
+  description: MyString
+
+two:
+  receiver: MyString
+  user_id: 
+  order_place: MyString
+  order_phone: MyString
+  status: 
+  description: MyString

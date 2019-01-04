@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  net-weight: 1.5
+  price: 1.5
+  quanity-in-store: 
+  description: MyString
+  supplier_id: 
+  category_id: 
+
+two:
+  name: MyString
+  net-weight: 1.5
+  price: 1.5
+  quanity-in-store: 
+  description: MyString
+  supplier_id: 
+  category_id: 
